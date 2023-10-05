@@ -1,0 +1,4 @@
+.vs/*
+.vscode/*
+SSLTesting/Debug/*
+SSLTesting/Release/*
