@@ -136,9 +136,6 @@
     <ClCompile Include="applink.c" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="dsa.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

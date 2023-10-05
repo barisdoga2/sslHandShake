@@ -22,9 +22,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="dsa.h">
-      <Filter>Header Files</Filter>
-    </None>
-  </ItemGroup>
 </Project>
